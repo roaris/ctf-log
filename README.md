@@ -9,3 +9,4 @@
 |n00bzCTF 2024(個人参加)|[55 / 967](https://ctftime.org/event/2378)|
 |AlpacaHack Round 2 (Web) (個人戦)|[35 / 300](https://alpacahack.com/ctfs/round-2/scoreboard)|
 |AlpacaHack Round 3 (Crypto) (個人戦)|[42 / 239](https://alpacahack.com/ctfs/round-3/scoreboard)|
+|AlpacaHack Round 4 (Rev) (個人戦)|[19 / 279](https://alpacahack.com/ctfs/round-4/scoreboard)|
