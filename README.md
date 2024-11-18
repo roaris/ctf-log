@@ -11,3 +11,4 @@
 |AlpacaHack Round 3 (Crypto) (個人戦)|[42 / 239](https://alpacahack.com/ctfs/round-3/scoreboard)|
 |AlpacaHack Round 4 (Rev) (個人戦)|[19 / 279](https://alpacahack.com/ctfs/round-4/scoreboard)|
 |AlpacaHack Round 5 (Crypto) (個人戦)|[27 / 247](https://alpacahack.com/ctfs/round-5/scoreboard)|
+|AlpacaHack Round 6 (Pwn) (個人戦)|[39 / 197](https://alpacahack.com/ctfs/round-6/scoreboard)|
