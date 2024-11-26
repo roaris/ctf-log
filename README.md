@@ -12,3 +12,4 @@
 |AlpacaHack Round 4 (Rev) (個人戦)|[19 / 279](https://alpacahack.com/ctfs/round-4/scoreboard)|
 |AlpacaHack Round 5 (Crypto) (個人戦)|[27 / 247](https://alpacahack.com/ctfs/round-5/scoreboard)|
 |AlpacaHack Round 6 (Pwn) (個人戦)|[39 / 197](https://alpacahack.com/ctfs/round-6/scoreboard)|
+|SECCON CTF 13 Quals(個人参加)|101 / 653<br>(domestic 39 / 303)|
